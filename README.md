@@ -9,3 +9,6 @@ Aluseks on [Apereo CAS](https://www.apereo.org/projects/cas), mida on kohandatud
 Kohanduste ja täienduste kirjeldust vt [Integrator's Guide](doc/Configuration.md).
 
 
+
+
+test test
